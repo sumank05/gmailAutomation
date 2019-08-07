@@ -1,0 +1,12 @@
+userEmailBox==//input[@id='identifierId']
+signInText==//span[contains(text(),'Sign in')]
+nextButtonAfterEmail==//span[@class = 'RveJvd snByac']
+userPasswordBox==//input[@name = 'password']
+nextButtonAfterPasswd==#passwordNext > span > span
+composeEmail==//div[@class = 'z0']
+recipientEmail==//textarea[@id = ':r7']
+subjectlineOfEmail==//input[@id = ':qp']
+bodyOfEmail==//div[@id = ':ru']
+sendButton==//div[@id = ':qf']
+inboxTableFirstElelemnt==//tr[@id=\":v2\"]
+subjectheaderLocator==//h2[contains(text(),'This is your subject')]
